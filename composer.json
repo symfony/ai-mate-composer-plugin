@@ -5,7 +5,6 @@
     "type": "composer-plugin",
     "keywords": [
         "ai",
-        "mcp",
         "mate",
         "composer-plugin",
         "auto-discovery"
